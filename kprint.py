@@ -29,8 +29,8 @@ def kinput(word, delay):
 -----------------------------------------------
 
  INPUT | Example : text = kinput("Enter text : " 0.05)
-                     |         |           |
-                  fonction    text       delay
+                            |         |            |
+                         fonction    text         delay
 
 -----------------------------------------------
 """
